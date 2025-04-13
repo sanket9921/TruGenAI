@@ -3,7 +3,7 @@ import { Service } from "@/types/Service";
 const serviceData: Service[] = [
   {
     id: 1,
-    icon: "/images/icon/AI.png",
+    icon: "/images/icon/chat.png",
     title: "Chatbot Development",
     description:
       "Custom development of chatbots tailored to specific business needs and use cases.",
@@ -18,7 +18,7 @@ const serviceData: Service[] = [
   },
   {
     id: 2,
-    icon: "/images/icon/AI.png",
+    icon: "/images/icon/nlp.png",
     title: "AI and NLP Integration",
     description:
       "Integration of AI and natural language processing (NLP) technologies for effective user interaction.",
@@ -33,7 +33,7 @@ const serviceData: Service[] = [
   },
   {
     id: 3,
-    icon: "/images/icon/AI.png",
+    icon: "/images/icon/omnichannel.png",
     title: "Omnichannel Deployment",
     description:
       "Deployment of chatbots across multiple platforms and channels for seamless user experience.",
@@ -48,7 +48,7 @@ const serviceData: Service[] = [
   },
   {
     id: 4,
-    icon: "/images/icon/AI.png",
+    icon: "/images/icon/bot.png",
     title: "AI-driven Automation",
     description:
       "Automation of repetitive tasks and processes using AI capabilities to improve efficiency.",
@@ -63,7 +63,7 @@ const serviceData: Service[] = [
   },
   {
     id: 5,
-    icon: "/images/icon/AI.png",
+    icon: "/images/icon/barchart.png",
     title: "Analytics and Reporting",
     description:
       "Utilization of analytics tools to track performance metrics and gain insights for optimization.",
@@ -78,7 +78,7 @@ const serviceData: Service[] = [
   },
   {
     id: 6,
-    icon: "/images/icon/AI.png",
+    icon: "/images/icon/lock.png",
     title: "Security and Compliance",
     description:
       "Implementation of robust security measures and compliance with data privacy regulations.",

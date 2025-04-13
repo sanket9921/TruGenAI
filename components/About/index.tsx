@@ -71,8 +71,8 @@ const About = () => {
               <p>
               At TruGenAI, we specialize in AI and Machine Learning, Big Data & Analytics, Application Development, and Consultancy. With over 4 years of experience, we empower businesses to innovate and grow with tailored solutions and strategic insights. Our mission is to help you thrive in the digital age by transforming data into actionable insights and driving excellence through advanced technologies.
               </p>
-              <a
-                href="#"
+              <Link
+                href="/about"
                 className="group mt-7.5 inline-flex items-center gap-2.5 text-black hover:text-primary dark:text-white dark:hover:text-primary"
               >
                 <span className="duration-300 group-hover:pr-2">Know More</span>
@@ -87,7 +87,7 @@ const About = () => {
                     fill="currentColor"
                   />
                 </svg>
-                </a>
+                </Link>
 
               {/* <div className="mt-7.5 flex items-center gap-5">
                 <div className="flex h-15 w-15 items-center justify-center rounded-[50%] border border-stroke dark:border-strokedark dark:bg-blacksection">

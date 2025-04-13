@@ -3,7 +3,7 @@ import { Service } from "@/types/Service";
 const serviceData: Service[] = [
   {
     id: 1,
-    icon: "/images/icon/AI.png",
+    icon: "/images/icon/bot.png",
     title: "Strategic AI Integration",
     description:
       "Guidance on integrating AI technologies into business processes and developing strategies for optimal implementation.",
@@ -15,7 +15,7 @@ const serviceData: Service[] = [
   },
   {
     id: 2,
-    icon: "/images/icon/AI.png",
+    icon: "/images/icon/line.png",
     title: "Data Strategy and Analytics",
     description:
       "Development of data-driven strategies and implementation of analytics solutions to drive informed decision-making.",
@@ -27,7 +27,7 @@ const serviceData: Service[] = [
   },
   {
     id: 3,
-    icon: "/images/icon/AI.png",
+    icon: "/images/icon/idea.png",
     title: "Digital Transformation Consulting",
     description:
       "Consultation on adopting digital technologies to enhance operations and customer experience, with tailored transformation roadmaps.",
@@ -39,7 +39,7 @@ const serviceData: Service[] = [
   },
   {
     id: 4,
-    icon: "/images/icon/AI.png",
+    icon: "/images/icon/nlp.png",
     title: "AI and Machine Learning Development",
     description:
       "Custom AI and machine learning solutions development, including algorithm design and predictive analytics model training.",
@@ -51,7 +51,7 @@ const serviceData: Service[] = [
   },
   {
     id: 5,
-    icon: "/images/icon/AI.png",
+    icon: "/images/icon/lock.png",
     title: "Risk Management and Compliance",
     description:
       "Assessment of AI-related risks, development of mitigation strategies, and ensuring compliance with data protection regulations.",
@@ -63,7 +63,7 @@ const serviceData: Service[] = [
   },
   {
     id: 6,
-    icon: "/images/icon/AI.png",
+    icon: "/images/icon/meter.png",
     title: "Performance Optimization",
     description:
       "Optimization of AI systems and algorithms for enhanced performance, scalability, and continuous improvement based on data insights.",

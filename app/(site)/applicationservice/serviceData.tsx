@@ -4,7 +4,7 @@ import { Service } from "@/types/Service";
 const serviceData: Service[] = [
     {
         id: 1,
-        icon: "/images/icon/AI.png",
+        icon: "/images/icon/phone.png",
         title: "Mobile App Development",
         description:
           "Our mobile app development services cover everything from ideation to deployment, ensuring a seamless and engaging user experience.",
@@ -20,7 +20,7 @@ const serviceData: Service[] = [
 
     {
         id: 2,
-        icon: "/images/icon/Web.png",
+        icon: "/images/icon/web.png",
         title: "Web Application Development",
         description:
           "We create dynamic and responsive web applications that cater to your business needs, providing a robust online presence.",
@@ -36,7 +36,7 @@ const serviceData: Service[] = [
     },
     {
         id: 3,
-        icon: "/images/icon/Enterprise.png",
+        icon: "/images/icon/enterprise.png",
         title: "Enterprise Software Solutions",
         description:
           "Our enterprise software solutions help automate and optimize your business processes, leading to increased efficiency and productivity.",
@@ -53,7 +53,7 @@ const serviceData: Service[] = [
 
     {
         id: 4,
-        icon: "/images/icon/Custom.png",
+        icon: "/images/icon/custom.png",
         title: "Custom Application Development",
         description:
           "We offer custom application development services to create software that perfectly aligns with your specific business requirements.",
@@ -67,7 +67,7 @@ const serviceData: Service[] = [
     },
     {
         id: 5,
-        icon: "/images/icon/Maintenance.png",
+        icon: "/images/icon/setting.png",
         title: "Application Maintenance and Support",
         description:
           "Our comprehensive maintenance and support services keep your applications running smoothly and securely.",
@@ -83,7 +83,7 @@ const serviceData: Service[] = [
 
     {
         id: 6,
-        icon: "/images/icon/Design.png",
+        icon: "/images/icon/paint.png",
         title: "UX/UI Design Services",
         description:
           "Our UX/UI design services focus on creating user-friendly interfaces that enhance the overall user experience of your applications.",

@@ -3,7 +3,7 @@ import { Service } from "@/types/Service";
 const serviceData: Service[] = [
   {
     id: 1,
-    icon: "/images/icon/AI.png",
+    icon: "/images/icon/download.png",
     title: "Data Extraction",
     description: "Efficient extraction of specific data points from websites.",
     services: [
@@ -14,7 +14,7 @@ const serviceData: Service[] = [
   },
   {
     id: 2,
-    icon: "/images/icon/AI.png",
+    icon: "/images/icon/custom.png",
     title: "Custom Scraping Solutions",
     description: "Tailored solutions for unique data needs and formats.",
     services: [
@@ -25,7 +25,7 @@ const serviceData: Service[] = [
   },
   {
     id: 3,
-    icon: "/images/icon/AI.png",
+    icon: "/images/icon/server.png",
     title: "Scalable Infrastructure",
     description:
       "Handling large-scale scraping projects with robust infrastructure.",
@@ -37,7 +37,7 @@ const serviceData: Service[] = [
   },
   {
     id: 4,
-    icon: "/images/icon/AI.png",
+    icon: "/images/icon/quality.png",
     title: "Data Quality Assurance",
     description:
       "Ensuring accurate and reliable data through validation processes.",
@@ -45,7 +45,7 @@ const serviceData: Service[] = [
   },
   {
     id: 5,
-    icon: "/images/icon/AI.png",
+    icon: "/images/icon/balance.png",
     title: "Compliance and Ethics",
     description:
       "Adhering to legal standards and ethical practices in web scraping.",
@@ -57,7 +57,7 @@ const serviceData: Service[] = [
   },
   {
     id: 6,
-    icon: "/images/icon/AI.png",
+    icon: "/images/icon/chain.png",
     title: "Integration Services",
     description:
       "Seamless integration of scraped data into existing systems or databases.",

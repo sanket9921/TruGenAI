@@ -3,7 +3,7 @@ import { Service } from "@/types/Service";
 const serviceData: Service[] = [
   {
     id: 1,
-    icon: "/images/icon/AI.png",
+    icon: "/images/icon/barchart.png",
     title: "Data Analytics",
     description:
       "Unlock actionable insights from your data to drive informed business decisions and optimize performance.",
@@ -16,7 +16,7 @@ const serviceData: Service[] = [
   },
   {
     id: 2,
-    icon: "/images/icon/AI.png",
+    icon: "/images/icon/bigdata.png",
     title: "Big Data Solutions",
     description:
       "Harness the power of big data to process large volumes of structured and unstructured data for meaningful insights.",
@@ -29,7 +29,7 @@ const serviceData: Service[] = [
   },
   {
     id: 3,
-    icon: "/images/icon/AI.png",
+    icon: "/images/icon/line.png",
     title: "Business Intelligence",
     description:
       "Gain a competitive edge through strategic insights and data-driven decision-making.",
@@ -42,7 +42,7 @@ const serviceData: Service[] = [
   },
   {
     id: 4,
-    icon: "/images/icon/AI.png",
+    icon: "/images/icon/shield.png",
     title: "Data Quality Management",
     description:
       "Ensure data accuracy, completeness, and consistency to maximize the value of your information assets.",

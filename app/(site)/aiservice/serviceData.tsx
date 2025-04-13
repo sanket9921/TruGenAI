@@ -3,7 +3,7 @@ import { Service } from "@/types/Service";
 const serviceData: Service[] = [
   {
     id: 1,
-    icon: "/images/icon/AI.png",
+    icon: "/images/icon/pie.png",
     title: "Predictive Analytics",
     description:
       "Utilize predictive analytics to forecast trends, identify patterns, and make informed business decisions based on data.",
@@ -16,7 +16,7 @@ const serviceData: Service[] = [
   },
   {
     id: 2,
-    icon: "/images/icon/AI.png",
+    icon: "/images/icon/chat.png",
     title: "Natural Language Processing (NLP)",
     description:
       "Our NLP services enable machines to understand, interpret, and respond to human language, enhancing communication and operational efficiency.",
@@ -33,7 +33,7 @@ const serviceData: Service[] = [
   },
   {
     id: 3,
-    icon: "/images/icon/AI.png",
+    icon: "/images/icon/vision.png",
     title: "Computer Vision",
     description:
       "Implement computer vision technologies to interpret and process visual information, enabling automation and enhancing decision-making.",
@@ -49,7 +49,7 @@ const serviceData: Service[] = [
   },
   {
     id: 4,
-    icon: "/images/icon/AI.png",
+    icon: "/images/icon/bot.png",
     title: "Machine Learning Models",
     description:
       "Develop and deploy machine learning models that learn from data and improve over time, driving innovation and efficiency.",
@@ -62,7 +62,7 @@ const serviceData: Service[] = [
   },
   {
     id: 5,
-    icon: "/images/icon/AI.png",
+    icon: "/images/icon/arm.png",
     title: "AI-Driven Automation",
     description:
       "Implement AI-driven automation to optimize workflows, reduce manual tasks, and enhance productivity.",
@@ -75,7 +75,7 @@ const serviceData: Service[] = [
   },
   {
     id: 6,
-    icon: "/images/icon/AI.png",
+    icon: "/images/icon/barchart.png",
     title: "Data Science and Analytics",
     description:
       "Our data science and analytics services help you unlock the full potential of your data, driving strategic decision-making and growth.",
